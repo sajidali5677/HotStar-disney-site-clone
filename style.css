@@ -139,16 +139,16 @@ to{
     border-radius: 2vmax;
     background-color: rgb(4, 55, 38);
 }
-.p1nav ul li {
+.p1nav ul li a {
     color: rgba(255, 255, 255, 0.482);
     font-size: 1.5vmax;
-    margin-top: 2.5vmax;
+    line-height: 4vmax;
     transition: all ease-in .1s;
-    
+    text-decoration: none;
 
 }
-.p1nav ul li:hover{
-    font-size: 3vmax;
+.p1nav ul li a:hover{
+    font-size: 1.8vmax;
     color: white;
 
     
