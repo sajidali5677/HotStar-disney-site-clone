@@ -1,4 +1,4 @@
-var icon = document.querySelector("nav h2");
+var icon = document.querySelector(".menubar h4");
 var menu = document.querySelector(".menu");
 var li_one = document.querySelector(".li-one");
 var li_two = document.querySelector(".li-two");
